@@ -7,3 +7,7 @@ Team member A)
 - second change
 
 team member B is writing more text
+
+Teammember C)
+- my text
+- need more text
