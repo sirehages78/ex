@@ -1,6 +1,6 @@
 # This is the readme
 
-Dies ist ein Text
+This is a text
 
 Team member A)
 - first change
