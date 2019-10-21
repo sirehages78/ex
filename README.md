@@ -1,1 +1,3 @@
-Dies ist ein Text
+Teammember C)
+- my text
+- need more text
