@@ -1,3 +1,3 @@
-Dies ist ein Text
+# Readme
 
 team member B is writing
